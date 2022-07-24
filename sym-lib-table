@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name maxim-10)(type Legacy)(uri ${KIPRJMOD}/maxim-10.lib)(options "")(descr ""))
+)
